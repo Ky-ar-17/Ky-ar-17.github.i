@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## COMPUESTOS CARBONILICOS 
 
-You can use the [editor on GitHub](https://github.com/Ky-ar-17/examen-quimica-organica-II/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Un grupo carbonilico es aquel que contiene un carbono doblemente unido con un oxígeno. os compuestos que contiene un grupo carbonilo se llaman compuestos carbonilicos y son abundantes en la naturaleza. Muchos tienen papeles importantes en los procesos biológicos. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
