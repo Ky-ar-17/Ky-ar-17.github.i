@@ -1,2 +1,2 @@
-# https-ky-ar-17.github.io-examen-quimica-organica-II-
+# Compuestos carbonilicos
 Organic chemistry II
